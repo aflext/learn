@@ -1,0 +1,5 @@
+### keep-alive && pipelining。keep-alive减少慢启动的消耗，而pipelining则优化了请求-响应的模式为并行请求-并行响应(遵循先进先出-SPDY解决了这个原则)
+- [keep-alive-header-clarification](http://stackoverflow.com/questions/20592698/keep-alive-header-clarification)
+- [http-keep-alive-header](https://www.byvoid.com/blog/http-keep-alive-header)
+- [optimizing-http-keep-alive-and-pipelining](https://www.igvita.com/2011/10/04/optimizing-http-keep-alive-and-pipelining/)
+- [Increasing Application Performance with HTTP Cache Headers](https://devcenter.heroku.com/articles/increasing-application-performance-with-http-cache-headers)

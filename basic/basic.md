@@ -2,7 +2,6 @@
 - [像素,浅谈移动Web开发（上）：深入概念](http://www.infoq.com/cn/articles/development-of-the-mobile-web-deep-concept)
 
 ### 布局
-- [回流和重绘](http://www.blogjava.net/BearRui/archive/2010/05/10/320502.html)
 
 ### 网络
 
@@ -19,3 +18,7 @@
 - [SPDY介绍 - wikipedia.org](http://javaarm.com/faces/display.xhtml;jsessionid=QYRt0P452bblKILPsbNo26LX?tid=3656&page=1&print=true)
 - [SPDY-简介](https://chenhm.com/2014/10/spdy/)
 - [SPDY协议 - v3](http://www.fireflysource.com/spdy/spdy-v3-cn.html)
+
+### XMLHttpRequest2
+- [XMLHttpRequest Level 2 使用指南](http://www.ruanyifeng.com/blog/2012/09/xmlhttprequest_level_2.html)
+- [你真的会使用XMLHttpRequest吗？](https://segmentfault.com/a/1190000004322487)

@@ -1,6 +1,9 @@
 ### 基本概念
 - [像素,浅谈移动Web开发（上）：深入概念](http://www.infoq.com/cn/articles/development-of-the-mobile-web-deep-concept)
-
+- [Understanding JavaScript’s ‘undefined’](https://javascriptweblog.wordpress.com/2010/08/16/understanding-undefined-and-preventing-referenceerrors/)
+    A variable Reference will never be unresolvable since the var keyword ensures a VariableObject is always assigned to the base value.
+    A variable is not a variable until its declared.
+    It’s true, identifiers which were never declared with the var keyword will get created as global variables – but only if they are the object of an assignment.
 ### 布局
 
 ### 网络

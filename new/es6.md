@@ -5,7 +5,7 @@
 ## generators
 - [es6-generators-and-asynchronous-javascript](http://alexperry.io/javascript/2015/09/17/es6-generators-and-asynchronous-javascript.html)
 - ES6 Generators: Complete Series
-..- [The Basics Of ES6 Generators](https://davidwalsh.name/es6-generators) 沟通机制：先把yield后面的值传递出去，然后暂停，然后等待激活。
-..- [es6-generators-dive](https://davidwalsh.name/es6-generators-dive)
-..- [async-generators](https://davidwalsh.name/async-generators)
-..- [concurrent-generators](https://davidwalsh.name/concurrent-generators)
+..* [The Basics Of ES6 Generators](https://davidwalsh.name/es6-generators) 沟通机制：先把yield后面的值传递出去，然后暂停，然后等待激活。
+..* [es6-generators-dive](https://davidwalsh.name/es6-generators-dive)
+..* [async-generators](https://davidwalsh.name/async-generators)
+..* [concurrent-generators](https://davidwalsh.name/concurrent-generators)

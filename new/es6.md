@@ -1,3 +1,6 @@
+### tutorial
+- [Es6 In Depth](https://hacks.mozilla.org/category/es6-in-depth/)
+
 ### modules
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html)
 - [ecmascript-2015](http://slides.com/drksephy/ecmascript-2015)

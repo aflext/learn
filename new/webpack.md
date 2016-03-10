@@ -2,3 +2,11 @@
 - [requirejs-to-webpack - Part 1 (the why)](http://j-query.blogspot.com/2015/06/from-requirejs-to-webpack-part-1-reasons.html)
 - [From Require.js to Webpack - Part 2 (the how)](https://gist.github.com/xjamundx/b1c800e9282e16a6a18e)
 - [ditching-requirejs-webpack-reasons-lessons-learned](http://blog.player.me/ditching-requirejs-webpack-reasons-lessons-learned/)
+- [用 ES6 编写 Webpack 的配置文件](https://segmentfault.com/a/1190000003932889)
+ - babel-node可以代替node来先把webpack配置文件编译
+ - webpack.config.babel.js  webpack.config.[loader].js这种黑科技
+ - nodejs4对es6支持不完整
+- [webpack-tutorial](https://www.zfanw.com/blog/webpack-tutorial.html)
+- [beginner-s-guide-to-webpack](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.88assdv7l)
+- [advanced-webpack-part-1-the-commonschunk-plugin](http://jonathancreamer.com/advanced-webpack-part-1-the-commonschunk-plugin/)
+- [how-to-split-your-apps-by-routes-with-webpack](https://medium.com/@somebody32/how-to-split-your-apps-by-routes-with-webpack-36b7a8a6231#.adbm776bg) 太长了没看

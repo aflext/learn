@@ -10,6 +10,8 @@
 
 - [JavaScript之web通信](http://www.cnblogs.com/hustskyking/p/web-communication.html)
 - [HTTP请求的TCP瓶颈分析](https://bhsc881114.github.io/2015/06/23/HTTP%E8%AF%B7%E6%B1%82%E7%9A%84TCP%E7%93%B6%E9%A2%88%E5%88%86%E6%9E%90/)
+- [maximum-concurrent-connection-to-same](http://sgdev-blog.blogspot.jp/2014/01/maximum-concurrent-connection-to-same.html)
+- [optimizing-http-keep-alive-and-pipelining](https://www.igvita.com/2011/10/04/optimizing-http-keep-alive-and-pipelining/)
 
 ### WebSocket.全双工通信，和http协议不同，握手链接采用http
 - [WebSocket 是什么原理？为什么可以实现持久连接？](https://www.zhihu.com/question/20215561)
@@ -25,3 +27,9 @@
 ### XMLHttpRequest2
 - [XMLHttpRequest Level 2 使用指南](http://www.ruanyifeng.com/blog/2012/09/xmlhttprequest_level_2.html)
 - [你真的会使用XMLHttpRequest吗？](https://segmentfault.com/a/1190000004322487)
+
+### SGML
+- [relation-and-differences-between-sgml-xml-html-and-xhtml](http://programmers.stackexchange.com/questions/93296/relation-and-differences-between-sgml-xml-html-and-xhtml)
+- [any-reason-not-to-start-using-the-html-5-doctypes](http://stackoverflow.com/questions/5629/any-reason-not-to-start-using-the-html-5-doctype)
+- [html5-is-html-and-xml](https://www.w3.org/blog/2008/01/html5-is-html-and-xml/)
+- [前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Questions-and-Answers) HTML5 为什么只需要写 <!DOCTYPE HTML>？HTML5 不基于 SGML，因此不需要对DTD进行引用，但是需要doctype来规范浏览器的行为（让浏览器按照它们应该的方式来运行）； 而HTML4.01基于SGML,所以需要对DTD进行引用，才能告知浏览器文档所使用的文档类型。

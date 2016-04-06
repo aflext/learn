@@ -4,6 +4,12 @@
 - [optimizing-http-keep-alive-and-pipelining](https://www.igvita.com/2011/10/04/optimizing-http-keep-alive-and-pipelining/)
 - [Increasing Application Performance with HTTP Cache Headers](https://devcenter.heroku.com/articles/increasing-application-performance-with-http-cache-headers)
 
+### 常见的缓存方法
+ 1. Image Spriting – Combining a number of smaller images into one image ‘sprite’ and then using some clever CSS to display the correct section of the sprite image on the page.
+ 2. Concatenation and Minification – Combining multiple CSS or JS files in order to reduce the number of HTTP requests in a page. Minification refers to the practice of removing whitespace and other supplementary content from files in order to reduce their size.
+ 3. Domain Sharding – Placing resources under different sub-domains so that the browser can open more parallel connections.分子域名来处理浏览器的并发请求限制
+ 4. Inline Resources – Using Data URIs to embed images into the HTML code, again reducing the number of HTTP requests.
+
 
 ### 浏览器缓存
 

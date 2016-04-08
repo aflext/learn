@@ -13,3 +13,8 @@
 - [describe-the-page-rendering-process-in-a-browser](http://stackoverflow.com/questions/7515227/describe-the-page-rendering-process-in-a-browser)
 - [async-vs-defer-attributes](http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html) 没有这两个属性，则在解析html时下载然后执行js然后继续解析html,有async时，则在解析html时同时下载js，js下载后html解析暂停，同时执行js。有defer时，则在解析html时下载js，html解析完成后执行js。async不保证执行顺序，而defer则会保证。
 - [script的defer和async](http://ued.ctrip.com/blog/script-defer-and-async.html)
+- [Comparison_of_layout_engines_(Cascading_Style_Sheets)](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Cascading_Style_Sheets))
+- [script-injected-async-scripts-considered-harmful](https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/)
+- [deciphering-the-critical-rendering-path](http://calendar.perfplanet.com/2012/deciphering-the-critical-rendering-path/)
+- [css-paint-times](http://www.html5rocks.com/en/tutorials/speed/css-paint-times/)
+- [understanding-the-critical-rendering-path-rendering-pages-in-1-second](https://medium.com/@luisvieira_gmr/understanding-the-critical-rendering-path-rendering-pages-in-1-second-735c6e45b47a#.5l6hbpfkt)

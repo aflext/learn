@@ -15,3 +15,7 @@
 
 ### 学习资料
 - [WebFundamentals](https://github.com/google/WebFundamentals)
+- [前端只是规范](http://jixianqianduan.com/frontend-resource/2016/01/26/front-end-learning-list.html)
+- [前端手册](http://www.frontendhandbook.com/index.html)
+- [前端手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/index.html)
+- [Angular 2 versus React: There Will Be Blood](https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.vouqhe5rq)

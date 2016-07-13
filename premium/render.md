@@ -1,5 +1,5 @@
 ### 渲染机制
-- [S 一定要放在 Body 的最底部么？聊聊浏览器的渲染机制](https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=401857646&idx=1&sn=0b92213c90d442637793bb9e5154336b&scene=1&srcid=0120k4k2Wadk7V2iFwfR1jo3&key=710a5d99946419d9c2f8b73f80c52b8a5a6136f9c4b469c509fb35fe158a91a83862600c1861fb5e3314a0bb89c7f6ef&ascene=0&uin=MjgyNzQwMzY4MQ%3D%3D&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.10+build(14A389)&version=11020201&pass_ticket=p%2FHgRlr%2Fr5y6oHHe1u%2BWwDfQZHu2K%2FwbsNmGZij8OfZjENKEA9WRG2O3Ndqp2IWh).
+- [S 一定要放在 Body 的最底部么？聊聊浏览器的渲染机制](https://segmentfault.com/a/1190000004292479).
      js 的下载和执行会阻塞 Dom 树的构建（严谨地说是中断了 Dom 树的更新），所以 script 标签放在首屏范围内的HTML代码段里会截断首屏的内容。
      script 标签放在 body 底部，做与不做 async 或者 defer 处理，都不会影响首屏时间，但影响 DomContentLoad 和 load 的时间，进而影响依赖他们的代码的执行的开始时间
 - [google WebFundamentals](https://github.com/google/WebFundamentals)
@@ -18,3 +18,14 @@
 - [deciphering-the-critical-rendering-path](http://calendar.perfplanet.com/2012/deciphering-the-critical-rendering-path/)
 - [css-paint-times](http://www.html5rocks.com/en/tutorials/speed/css-paint-times/)
 - [understanding-the-critical-rendering-path-rendering-pages-in-1-second](https://medium.com/@luisvieira_gmr/understanding-the-critical-rendering-path-rendering-pages-in-1-second-735c6e45b47a#.5l6hbpfkt)
+- [adding-interactivity-with-javascript](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/adding-interactivity-with-javascript?hl=en
+- [cssom](https://varvy.com/performance/cssom.html)
+- [critical-rendering-path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/adding-interactivity-with-javascript?hl=en)
+
+### 首屏时间
+- [points-about-resource-loading](http://www.alloyteam.com/2016/01/points-about-resource-loading/)
+- [optimization-of-alloyteam-series-the-first-screen-time](http://www.alloyteam.com/2015/10/optimization-of-alloyteam-series-the-first-screen-time/)
+- [rem相关 响应式设计](http://www.alloyteam.com/2016/03/mobile-web-adaptation-tool-rem/)
+
+### 性能监控
+- [build-performance-monitor-in-7-days](http://fex.baidu.com/blog/2014/05/build-performance-monitor-in-7-days/)

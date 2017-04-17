@@ -33,3 +33,4 @@
 - [A Beginner's Guide to HTTP Cache Headers](http://www.mobify.com/blog/beginners-guide-to-http-cache-headers/)
 - [ETag vs Header Expires](http://stackoverflow.com/questions/499966/etag-vs-header-expires)
 - [Increasing Application Performance with HTTP Cache Headers](https://devcenter.heroku.com/articles/increasing-application-performance-with-http-cache-headers)
+- [深入研究Chrome：Preload与Prefetch原理，及其优先级](https://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247485131&idx=1&sn=1598d25c105b4bee84ba0c00e8666fa4&chksm=97236409a054ed1f54481c545b18615b6a7d72d9ae2e5a9d508ea86803c1cfb460e0df6e5e50#rd)

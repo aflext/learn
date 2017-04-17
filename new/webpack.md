@@ -10,3 +10,4 @@
 - [beginner-s-guide-to-webpack](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.88assdv7l)
 - [advanced-webpack-part-1-the-commonschunk-plugin](http://jonathancreamer.com/advanced-webpack-part-1-the-commonschunk-plugin/)
 - [how-to-split-your-apps-by-routes-with-webpack](https://medium.com/@somebody32/how-to-split-your-apps-by-routes-with-webpack-36b7a8a6231#.adbm776bg) 太长了没看
+- [Setting up CSS Modules with React and Webpack](http://javascriptplayground.com/blog/2016/07/css-modules-webpack-react/)

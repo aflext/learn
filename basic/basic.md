@@ -23,6 +23,7 @@
 - [SPDY介绍 - wikipedia.org](http://javaarm.com/faces/display.xhtml;jsessionid=QYRt0P452bblKILPsbNo26LX?tid=3656&page=1&print=true)
 - [SPDY-简介](https://chenhm.com/2014/10/spdy/)
 - [SPDY协议 - v3](http://www.fireflysource.com/spdy/spdy-v3-cn.html)
+- [https://www.smashingmagazine.com/2017/04/guide-http2-server-push/](https://www.smashingmagazine.com/2017/04/guide-http2-server-push/)
 
 ### XMLHttpRequest2
 - [XMLHttpRequest Level 2 使用指南](http://www.ruanyifeng.com/blog/2012/09/xmlhttprequest_level_2.html)
@@ -36,4 +37,7 @@
 
 ### SVG
 - [svg-coordinate-systems](https://sarasoueidan.com/blog/svg-coordinate-systems/)
-- [svg-transformations](https://sarasoueidan.com/blog/svg-transformations/)
+- [svg-transformations](https://sarasoueidan.com/blog/svg-transformations/)\
+
+### debug
+- [https://css-tricks.com/debugging-tips-tricks/](https://css-tricks.com/debugging-tips-tricks/)

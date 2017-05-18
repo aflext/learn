@@ -12,6 +12,7 @@
  6. 如果用的是转发模式，此DNS服务器就会把请求转发至上一级DNS服务器，由上一级服务器进行解析，上一级服务器如果不能解析，或找根DNS或把转请求转至上上级，以此循环。不管是本地DNS服务器用是是转发，还是根提示，最后都是把结果返回给本地DNS服务器，由此DNS服务器再返回给客户机。
 - [DNS 查询的工作原理](https://msdn.microsoft.com/zh-cn/library/cc775637(v=ws.10).aspx)
 - [域名解析中A记录、CNAME、MX记录、NS记录的区别和联系](http://blog.csdn.net/crazw/article/details/8986581)
+- [https://blog.cloudflare.com/how-we-made-our-dns-stack-3x-faster/](https://blog.cloudflare.com/how-we-made-our-dns-stack-3x-faster/)
 
 ### 学习资料
 - [WebFundamentals](https://github.com/google/WebFundamentals)

@@ -12,3 +12,6 @@
  - [es6-generators-dive](https://davidwalsh.name/es6-generators-dive)
  - [async-generators](https://davidwalsh.name/async-generators)  evaluated first, and then the yield pauses
  - [concurrent-generators](https://davidwalsh.name/concurrent-generators)
+
+### OOP
+- [http://2ality.com/2015/02/es6-classes-final.html#referring_to_super-properties_in_methods](http://2ality.com/2015/02/es6-classes-final.html#referring_to_super-properties_in_methods)

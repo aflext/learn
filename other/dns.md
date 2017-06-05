@@ -20,3 +20,6 @@
 - [前端手册](http://www.frontendhandbook.com/index.html)
 - [前端手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/index.html)
 - [Angular 2 versus React: There Will Be Blood](https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.vouqhe5rq)
+
+### 域名劫持
+- [https://techblog.toutiao.com/2017/05/09/cdn/](https://techblog.toutiao.com/2017/05/09/cdn/)

@@ -14,3 +14,6 @@
 
 ### vr
 - [vr beginning](https://blog.ycombinator.com/how-to-get-into-vr/)
+
+### webassembly
+- [https://www.smashingmagazine.com/2017/05/abridged-cartoon-introduction-webassembly/](https://www.smashingmagazine.com/2017/05/abridged-cartoon-introduction-webassembly/)

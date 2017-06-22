@@ -12,9 +12,15 @@
 - [HTTP请求的TCP瓶颈分析](https://bhsc881114.github.io/2015/06/23/HTTP%E8%AF%B7%E6%B1%82%E7%9A%84TCP%E7%93%B6%E9%A2%88%E5%88%86%E6%9E%90/)
 - [maximum-concurrent-connection-to-same](http://sgdev-blog.blogspot.jp/2014/01/maximum-concurrent-connection-to-same.html)
 - [optimizing-http-keep-alive-and-pipelining](https://www.igvita.com/2011/10/04/optimizing-http-keep-alive-and-pipelining/)
+- [https://hpbn.co/](https://hpbn.co/) 性能优化
 
 ### WebSocket.全双工通信，和http协议不同，握手链接采用http
 - [WebSocket 是什么原理？为什么可以实现持久连接？](https://www.zhihu.com/question/20215561)
+- [http://www.ruanyifeng.com/blog/2017/05/server-sent_events.html](http://www.ruanyifeng.com/blog/2017/05/server-sent_events.html)
+- [http://caibaojian.com/http-connection-and-websocket.html](http://caibaojian.com/http-connection-and-websocket.html)
+- [http://blog.zhangruipeng.me/2015/10/22/Web-Connectivity/](http://blog.zhangruipeng.me/2015/10/22/Web-Connectivity/)
+- [http://www.ruanyifeng.com/blog/2017/05/websocket.html](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
+- [https://www.sitepoint.com/real-time-apps-websockets-server-sent-events/](https://www.sitepoint.com/real-time-apps-websockets-server-sent-events/)
 
 ### SPDY && HTTP2.优点一大堆
 - [Making The Web Faster With SPDY](http://blog.teamtreehouse.com/making-the-web-faster-with-spdy)
@@ -24,6 +30,7 @@
 - [SPDY-简介](https://chenhm.com/2014/10/spdy/)
 - [SPDY协议 - v3](http://www.fireflysource.com/spdy/spdy-v3-cn.html)
 - [https://www.smashingmagazine.com/2017/04/guide-http2-server-push/](https://www.smashingmagazine.com/2017/04/guide-http2-server-push/)
+- [https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/](https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/)
 
 ### XMLHttpRequest2
 - [XMLHttpRequest Level 2 使用指南](http://www.ruanyifeng.com/blog/2012/09/xmlhttprequest_level_2.html)

@@ -1,2 +1,3 @@
 ## RN动画
-[从动画到UI，React Native应用如何达到 60FPS？](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651113282&idx=1&sn=7dd5a4b6f40003b95a4e6d179a470b78)
+- [从动画到UI，React Native应用如何达到 60FPS？](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651113282&idx=1&sn=7dd5a4b6f40003b95a4e6d179a470b78)
+- [http://www.infoq.com/cn/articles/jd-618-ReactNative-jingdong-practise?utm_source=infoq&utm_medium=related_content_link&utm_campaign=relatedContent_news_clk](http://www.infoq.com/cn/articles/jd-618-ReactNative-jingdong-practise?utm_source=infoq&utm_medium=related_content_link&utm_campaign=relatedContent_news_clk)很好的思路，react统一前端

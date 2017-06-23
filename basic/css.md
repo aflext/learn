@@ -1,3 +1,6 @@
+### overall
+- [https://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/](https://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
+
 ### 关于position
 - [absolute-relative-fixed-positioining-how-do-they-differ](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/)
  - 相对定位可以用left等值，可以用z-index,而且排在默认的position为static的元素的上面
@@ -26,3 +29,8 @@
  - [](https://github.com/amfe/lib-flexible/issues)
  - [](http://www.w3cplus.com/css3/define-font-size-with-css3-rem)
  - [](http://isux.tencent.com/web-app-rem.html)
+
+# CSS in js
+- [https://github.com/css-modules/css-modules](https://github.com/css-modules/css-modules)
+- [http://www.ruanyifeng.com/blog/2016/06/css_modules.html](http://www.ruanyifeng.com/blog/2016/06/css_modules.html)
+- [http://www.alloyteam.com/2017/03/getting-started-with-css-modules-and-react-in-practice/](http://www.alloyteam.com/2017/03/getting-started-with-css-modules-and-react-in-practice/)

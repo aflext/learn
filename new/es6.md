@@ -1,5 +1,6 @@
 ### tutorial
 - [Es6 In Depth](https://hacks.mozilla.org/category/es6-in-depth/)
+- [http://es6.ruanyifeng.com/?search=%E6%A8%A1%E6%9D%BF&x=8&y=4](http://es6.ruanyifeng.com/?search=%E6%A8%A1%E6%9D%BF&x=8&y=4)
 
 ### modules
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html)

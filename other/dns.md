@@ -23,3 +23,6 @@
 
 ### 域名劫持
 - [https://techblog.toutiao.com/2017/05/09/cdn/](https://techblog.toutiao.com/2017/05/09/cdn/)
+
+### dns 架构
+- [https://githubengineering.com/dns-infrastructure-at-github/](https://githubengineering.com/dns-infrastructure-at-github/)

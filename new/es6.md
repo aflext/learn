@@ -16,3 +16,6 @@
 
 ### OOP
 - [http://2ality.com/2015/02/es6-classes-final.html#referring_to_super-properties_in_methods](http://2ality.com/2015/02/es6-classes-final.html#referring_to_super-properties_in_methods)
+
+### syntax
+- [Node中没搞明白require和import，你会被坑的很惨](http://imweb.io/topic/582293894067ce9726778be9)

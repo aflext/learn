@@ -35,6 +35,9 @@
 - [https://www.smashingmagazine.com/2017/04/guide-http2-server-push/](https://www.smashingmagazine.com/2017/04/guide-http2-server-push/)
 - [https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/](https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/)
 
+### server push
+- [https://jakearchibald.com/2017/h2-push-tougher-than-i-thought/](https://jakearchibald.com/2017/h2-push-tougher-than-i-thought/)
+
 ### XMLHttpRequest2
 - [XMLHttpRequest Level 2 使用指南](http://www.ruanyifeng.com/blog/2012/09/xmlhttprequest_level_2.html)
 - [你真的会使用XMLHttpRequest吗？](https://segmentfault.com/a/1190000004322487)

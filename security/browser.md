@@ -1,2 +1,3 @@
 ## 浏览器安全相关
 - [http://calvinmetcalf.com/post/104082905653/porting-nodejs-crypto-to-the-browser-part-1-all](http://calvinmetcalf.com/post/104082905653/porting-nodejs-crypto-to-the-browser-part-1-all)
+- [深入聊聊微服务架构的身份认证问题](https://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659599342&idx=1&sn=61b356b169f8aef50ad6912adef90a6a&chksm=8be996fcbc9e1feac6ccba2697bf58329571155e2898a3abdb9c87078b98d2b83fb335635d2d#rd)

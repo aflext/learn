@@ -5,6 +5,9 @@
 ### modules
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html)
 - [ecmascript-2015](http://slides.com/drksephy/ecmascript-2015)
+- [http://2ality.com/2017/04/setting-up-multi-platform-packages.html](http://2ality.com/2017/04/setting-up-multi-platform-packages.html)
+- [https://github.com/mosinve/reestrius_spa/pull/1/commits/1fc0a696a3b9bd376f6aed7f15323441276966cd](https://github.com/mosinve/reestrius_spa/pull/1/commits/1fc0a696a3b9bd376f6aed7f15323441276966cd)
+- [https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358](https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358)
 
 ### generators
 - [es6-generators-and-asynchronous-javascript](http://alexperry.io/javascript/2015/09/17/es6-generators-and-asynchronous-javascript.html)

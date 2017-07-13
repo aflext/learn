@@ -8,7 +8,8 @@
 - [http://2ality.com/2017/04/setting-up-multi-platform-packages.html](http://2ality.com/2017/04/setting-up-multi-platform-packages.html)
 - [https://github.com/mosinve/reestrius_spa/pull/1/commits/1fc0a696a3b9bd376f6aed7f15323441276966cd](https://github.com/mosinve/reestrius_spa/pull/1/commits/1fc0a696a3b9bd376f6aed7f15323441276966cd)
 - [https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358](https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358)
-
+- [https://www.contentful.com/blog/2017/04/04/es6-modules-support-lands-in-browsers-is-it-time-to-rethink-bundling/](https://www.contentful.com/blog/2017/04/04/es6-modules-support-lands-in-browsers-is-it-time-to-rethink-bundling/)
+- [https://zhuanlan.zhihu.com/p/27276672](https://zhuanlan.zhihu.com/p/27276672)
 ### generators
 - [es6-generators-and-asynchronous-javascript](http://alexperry.io/javascript/2015/09/17/es6-generators-and-asynchronous-javascript.html)
 - ES6 Generators: Complete Series

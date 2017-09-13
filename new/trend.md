@@ -17,3 +17,7 @@
 
 ### webassembly
 - [https://www.smashingmagazine.com/2017/05/abridged-cartoon-introduction-webassembly/](https://www.smashingmagazine.com/2017/05/abridged-cartoon-introduction-webassembly/)
+
+
+### ts
+- [https://redditblog.com/2017/06/30/why-we-chose-typescript/](https://redditblog.com/2017/06/30/why-we-chose-typescript/)

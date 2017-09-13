@@ -23,3 +23,13 @@
 
 ### syntax
 - [Node中没搞明白require和import，你会被坑的很惨](http://imweb.io/topic/582293894067ce9726778be9)
+
+### desctruct
+- [http://2ality.com/2015/01/es6-destructuring.html](http://2ality.com/2015/01/es6-destructuring.html)
+- [http://exploringjs.com/es6/ch_destructuring.html](http://exploringjs.com/es6/ch_destructuring.html)
+- [https://ariya.io/2013/02/es6-and-destructuring-assignment](https://ariya.io/2013/02/es6-and-destructuring-assignment)
+- [https://ponyfoo.com/articles/es6-destructuring-in-depth](https://ponyfoo.com/articles/es6-destructuring-in-depth)
+
+### decorator
+- [https://aotu.io/notes/2016/10/24/decorator/index.html](https://aotu.io/notes/2016/10/24/decorator/index.html)
+- [http://www.cnblogs.com/whitewolf/p/details-of-ES7-JavaScript-Decorators.html](http://www.cnblogs.com/whitewolf/p/details-of-ES7-JavaScript-Decorators.html)

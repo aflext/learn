@@ -37,3 +37,8 @@ negative sampling. In Proc. EMNLP 2015.
 [4]《机器学习实战》
 
 [5]  特征工程 http://km.oa.com/group/22605/articles/show/295781
+
+
+
+### tutorials
+- [https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)

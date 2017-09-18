@@ -7,3 +7,4 @@
 ### 类库
 - [github](https://github.com/mickhansen/graphql-sequelize)
 - [https://github.com/kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit)
+- [https://open.nytimes.com/react-relay-and-graphql-under-the-hood-of-the-times-website-redesign-22fb62ea9764](https://open.nytimes.com/react-relay-and-graphql-under-the-hood-of-the-times-website-redesign-22fb62ea9764)

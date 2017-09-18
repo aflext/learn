@@ -6,3 +6,7 @@
 
 ### serverless
 - [https://developer.telerik.com/topics/cloud/why-serverless/](https://developer.telerik.com/topics/cloud/why-serverless/)
+
+
+### 架构思想
+- [https://fullstackmark.com/post/11/better-software-design-with-clean-architecture](https://fullstackmark.com/post/11/better-software-design-with-clean-architecture)

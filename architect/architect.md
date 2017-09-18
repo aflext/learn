@@ -10,3 +10,6 @@
 
 ### 架构思想
 - [https://fullstackmark.com/post/11/better-software-design-with-clean-architecture](https://fullstackmark.com/post/11/better-software-design-with-clean-architecture)
+
+### 分布式
+- [https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653548851&idx=1&sn=2470d5d79fd826cb72f9d33cad4887d2](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653548851&idx=1&sn=2470d5d79fd826cb72f9d33cad4887d2)

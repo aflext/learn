@@ -6,3 +6,6 @@
 
 ### practice
 - [https://github.com/wearehive/project-guidelines](https://github.com/wearehive/project-guidelines)
+
+### jenkins
+- [https://thenewstack.io/many-problems-jenkins-continuous-delivery/](https://thenewstack.io/many-problems-jenkins-continuous-delivery/)

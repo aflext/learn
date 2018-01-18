@@ -7,6 +7,11 @@
 ### 监控
 - [node-js-performance-monitoring-with-prometheus](https://blog.risingstack.com/node-js-performance-monitoring-with-prometheus/)
 
+### 技术点
+- [https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/)
+- [https://www.bennadel.com/blog/3301-calling-timeout-unref-with-settimeout-does-not-appear-to-be-a-best-practice-in-node-js.htm](https://www.bennadel.com/blog/3301-calling-timeout-unref-with-settimeout-does-not-appear-to-be-a-best-practice-in-node-js.htm)
+- [https://cnodejs.org/topic/570924d294b38dcb3c09a7a0](https://cnodejs.org/topic/570924d294b38dcb3c09a7a0)
+
 ### node性能
 - [V8 Ignition：JS 引擎与字节码的不解之缘](https://zhuanlan.zhihu.com/p/26669846)
 - [node-event-loop](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/)

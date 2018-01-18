@@ -26,6 +26,8 @@
 - [https://www.sitepoint.com/real-time-apps-websockets-server-sent-events/](https://www.sitepoint.com/real-time-apps-websockets-server-sent-events/)
 
 ### SPDY && HTTP2.优点一大堆
+> HTTP/2 引入了二进制分帧层，将 HTTP/1.1 中的请求和响应拆成颗粒度更细的帧（frame），从而实现了优先级、流量控制和 Server Push 等功能；HTTP/2 在单条 TCP 连接上可以打开多个流，从而实现了多路复用；HTTP/2 使用静态字典、动态字典以及哈夫曼编码，对请求 / 响应头部进行压缩。总之，HTTP/2 从协议层面解决了 HTTP/1.1 的诸多问题。
+
 - [Making The Web Faster With SPDY](http://blog.teamtreehouse.com/making-the-web-faster-with-spdy)
 - [SPDY 是什么？如何部署 SPDY？](http://www.geekpark.net/topics/158198)
 - [What is SPDY?](https://lincolnloop.com/blog/what-is-spdy/)
@@ -34,6 +36,15 @@
 - [SPDY协议 - v3](http://www.fireflysource.com/spdy/spdy-v3-cn.html)
 - [https://www.smashingmagazine.com/2017/04/guide-http2-server-push/](https://www.smashingmagazine.com/2017/04/guide-http2-server-push/)
 - [https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/](https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/)
+- [http://www.alloyteam.com/2016/07/httphttp2-0spdyhttps-reading-this-is-enough/](http://www.alloyteam.com/2016/07/httphttp2-0spdyhttps-reading-this-is-enough/)
+- [https://www.jianshu.com/p/933f8cf52f15](https://www.jianshu.com/p/933f8cf52f15)
+- [https://imququ.com/post/header-compression-in-http2.html](https://imququ.com/post/header-compression-in-http2.html)
+- [https://www.zhihu.com/question/34074946](https://www.zhihu.com/question/34074946)
+- [https://www.mnot.net/talks/h2fe/](https://www.mnot.net/talks/h2fe/)
+- [HTTP/2.0 相比1.0有哪些重大改进？ - victor yu的回答 - 知乎
+https://www.zhihu.com/question/34074946/answer/108588042](https://www.zhihu.com/question/34074946/answer/108588042)
+- [http://www.cnblogs.com/yingsmirk/p/5248506.html](http://www.cnblogs.com/yingsmirk/p/5248506.html)
+- [https://http2.github.io/faq/](https://http2.github.io/faq/)
 
 ### server push
 - [https://jakearchibald.com/2017/h2-push-tougher-than-i-thought/](https://jakearchibald.com/2017/h2-push-tougher-than-i-thought/)

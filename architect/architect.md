@@ -13,3 +13,5 @@
 
 ### 分布式
 - [https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653548851&idx=1&sn=2470d5d79fd826cb72f9d33cad4887d2](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653548851&idx=1&sn=2470d5d79fd826cb72f9d33cad4887d2)
+- [支撑百度搜索引擎99.995%可靠名字服务架构设计](https://juejin.im/post/5992ac80f265da3e0e10762d)
+- [https://zookeeper.apache.org/](https://zookeeper.apache.org/)

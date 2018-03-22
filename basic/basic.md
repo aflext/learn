@@ -53,6 +53,9 @@ https://www.zhihu.com/question/34074946/answer/108588042](https://www.zhihu.com/
 - [XMLHttpRequest Level 2 使用指南](http://www.ruanyifeng.com/blog/2012/09/xmlhttprequest_level_2.html)
 - [你真的会使用XMLHttpRequest吗？](https://segmentfault.com/a/1190000004322487)
 
+### TCP
+- [http://www.cnblogs.com/33debug/p/7060752.html](http://www.cnblogs.com/33debug/p/7060752.html)
+
 ### SGML
 - [relation-and-differences-between-sgml-xml-html-and-xhtml](http://programmers.stackexchange.com/questions/93296/relation-and-differences-between-sgml-xml-html-and-xhtml)
 - [any-reason-not-to-start-using-the-html-5-doctypes](http://stackoverflow.com/questions/5629/any-reason-not-to-start-using-the-html-5-doctype)

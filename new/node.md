@@ -20,3 +20,6 @@
 ### API
 - [https://medium.freecodecamp.com/node-js-streams-everything-you-need-to-know-c9141306be93](https://medium.freecodecamp.com/node-js-streams-everything-you-need-to-know-c9141306be93)
 - [async/await](https://blog.risingstack.com/mastering-async-await-in-nodejs/)
+
+### best practice
+- [http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/](http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/)

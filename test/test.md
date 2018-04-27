@@ -1,5 +1,6 @@
 ### 综合系统
 - [美团点评酒店后台故障演练系统](https://tech.meituan.com/thrifycopy_and_faultdrill_system.html)
+- [https://tech.meituan.com/%20checkout_counter_front_end.html](https://tech.meituan.com/%20checkout_counter_front_end.html)
 
 ### 测试方法
 - [https://blog.usebutton.com/an-image-diff-is-worth-1-000-words-e03a4b682cea](https://blog.usebutton.com/an-image-diff-is-worth-1-000-words-e03a4b682cea)

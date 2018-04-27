@@ -12,3 +12,6 @@
 
 ### webrtc
 - [https://deepstreamhub.com/tutorials/protocols/webrtc-intro/](https://deepstreamhub.com/tutorials/protocols/webrtc-intro/)
+
+### 国际化
+- [https://www.sitepen.com/blog/2017/07/19/the-state-of-internationalization-in-javascript/](https://www.sitepen.com/blog/2017/07/19/the-state-of-internationalization-in-javascript/)
